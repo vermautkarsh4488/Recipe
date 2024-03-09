@@ -25,7 +25,11 @@ This project was created by [Utkarsh Verma].
 ## ScreenShots 
 1. ![image](https://github.com/vermautkarsh4488/Recipe/assets/77044451/2a616b61-1cce-43c3-a9f8-01a754186b58)
 
-2. ![image](https://github.com/vermautkarsh4488/Recipe/assets/77044451/dafacc5a-b921-4ba3-8144-4ba2abf56d70)
+## on searching cheese
+![image](https://github.com/vermautkarsh4488/Recipe/assets/77044451/dafacc5a-b921-4ba3-8144-4ba2abf56d70)
+
+![image](https://github.com/vermautkarsh4488/Recipe/assets/77044451/df1d51bc-0dc6-4b03-99d6-1f1d912d40b1)
+
 
 
 
